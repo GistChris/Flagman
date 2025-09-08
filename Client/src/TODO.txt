@@ -1,0 +1,32 @@
+1        : OK !
+2        : OK !
+3        : OK !
+4        : OK ! check again for the 2nd part
+5        : OK !
+6        : NOT OK! <======
+7        : OK !
+8        : OK !
+9(bonus) : reponsive + hamburger NOT OK!
+
+##########
+block pour produits/panier titre
+Items per page : pourrais etre mieux
+
+
+CART
+padding dans bouton share/add
+frame autour image cart 
+frame autour cart
+utiliser locale pour prix
+utiliser svg pour delete
+garder bon format image
+essayer de rendre moins "haut" le cart
+
+Dark mode : 
+
+
+
+
+dvd/bluray dbz grrrrr
+
+
